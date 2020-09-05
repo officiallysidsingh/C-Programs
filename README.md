@@ -1,4 +1,4 @@
-# C-competitive-codes
+# C Programs
 
 Competitive Coding Solutions
 
